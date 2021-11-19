@@ -1,4 +1,4 @@
-# h1 Public smart contracts
+# Public smart contracts
 
 
 Even though all public contracts' source code will be published on TRON, this repository acts as a centralized place for people to read and review those contracts more easily.
